@@ -1,0 +1,81 @@
+[{
+    "no":"0",
+    "book": "Wislawa Szymborska ",
+    "author":"Wislawa Szymborska",
+    "price": "370",
+    "pages": "205",
+    "cover":"./static/getImage.jpg",
+    "picurl":"./static/getImage2.jpeg",
+    "picurl2":"./static/getImage3.jpeg"
+  },
+  {
+    "no":"1",
+    "book": "Wislawa Szymborska I",
+    "author":"Joyce",
+    "price": "270",
+    "pages": "205",
+    "cover":"./static/getImage2.jpeg",
+    "picurl":"./static/getImage.jpg",
+    "picurl2":"./static/getImage3.jpeg"
+  },
+{
+    "no":"2",
+    "book": "Wislawa Szymborska II",
+    "author":"slyvia",
+    "price": "350",
+    "pages": "205",
+    "cover":"./static/getImage3.jpeg",
+    "picurl":"./static/getImage2.jpeg",
+    "picurl2":"./static/getImage.jpg"
+  },
+  {
+    "no":"3",
+    "book": "Wislawa Szymborska III",
+    "author":"Wislawa",
+    "price": "250",
+    "pages": "205",
+    "cover":"./static/getImage.jpg",
+    "picurl":"./static/getImage2.jpeg",
+    "picurl2":"./static/getImage3.jpeg"
+  },
+{
+  "no":"4",
+    "book": "Wislawa Szymborska IV",
+    "author":"Miles",
+    "price": "390",
+    "pages": "205",
+    "cover":"./static/getImage2.jpeg",
+    "picurl":"./static/getImage.jpg",
+    "picurl2":"./static/getImage3.jpeg"
+  },
+  {
+    "no":"5",
+    "book": "Wislawa Szymborska V",
+    "author":"Szymborska",
+    "price": "270",
+    "pages": "205",
+    "cover":"./static/getImage3.jpeg",
+    "picurl":"./static/getImage2.jpeg",
+    "picurl2":"./static/getImage.jpg"
+  },
+{
+  "no":"6",
+    "book": "Wislawa Szymborska VI",
+    "author":"tea",
+    "price": "270",
+    "pages": "205",
+    "cover":"./static/getImage.jpg",
+    "picurl":"./static/getImage2.jpeg",
+    "picurl2":"./static/getImage3.jpeg"
+  },
+  {
+    "no":"7",
+    "book": "Wislawa Szymborska VII",
+    "author":"Mazika",
+    "price": "270",
+    "pages": "205",
+    "cover":"./static/getImage2.jpeg",
+    "picurl":"./static/getImage.jpg",
+    "picurl2":"./static/getImage3.jpeg"
+  }
+]
